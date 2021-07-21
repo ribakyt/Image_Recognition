@@ -1,0 +1,3 @@
+/home/daria/Proj/Proj/server/CMakeFiles/rebuild_cache.dir
+/home/daria/Proj/Proj/server/CMakeFiles/edit_cache.dir
+/home/daria/Proj/Proj/server/CMakeFiles/tcp-echo-server.dir

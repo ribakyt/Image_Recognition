@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/daria/Proj/Proj/server",
+  "command": "/usr/bin/c++   -isystem /usr/include/c++/7   -Wall -Wextra -Werror -pedantic -g -ggdb   -std=gnu++17 -o CMakeFiles/tcp-echo-server.dir/Server.cpp.o -c /home/daria/Proj/Proj/server/Server.cpp",
+  "file": "/home/daria/Proj/Proj/server/Server.cpp"
+}
+]
