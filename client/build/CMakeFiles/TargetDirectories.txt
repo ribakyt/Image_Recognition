@@ -1,0 +1,3 @@
+/Users/darik/Desktop/Proj/client/build/CMakeFiles/tcp-echo-client.dir
+/Users/darik/Desktop/Proj/client/build/CMakeFiles/ALL_BUILD.dir
+/Users/darik/Desktop/Proj/client/build/CMakeFiles/ZERO_CHECK.dir
