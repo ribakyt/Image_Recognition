@@ -1,9 +1,12 @@
 //Uncomment the following line if you are compiling this code in Visual Studio
 //#include "stdafx.h"
-
-#include <opencv2/opencv.hpp>
 #include <iostream>
-
+#include <opencv2/core.hpp>
+#include <opencv2/videoio.hpp>
+#include <opencv2/highgui.hpp>
+#include <ctime>
+#define CV_CAP_PROP_FRAME_WIDTH  3
+#define CV_CAP_PROP_FRAME_HEIGHT  4
 using namespace cv;
 using namespace std;
 
